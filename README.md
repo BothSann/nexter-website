@@ -25,3 +25,11 @@ To view or modify this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/BothSann/nexter-website.git
+
+## 🛠️ Built By
+
+This project was built by **THANN SOPHEAKBOTH** as part of an online learning course by [Jonas Schmedtmann](https://codingheroes.io/).
+
+---
+
+© Copyright by Jonas Schmedtmann. This project is for educational purposes only and cannot be used for commercial purposes.
