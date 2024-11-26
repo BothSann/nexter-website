@@ -2,6 +2,18 @@
 
 Nexter is a fictional, sleek and modern real estate platform designed to help users find their dream homes. This project showcases a portfolio of luxurious properties and highlights key real estate services, making home acquisition effortless and enjoyable.
 
+## 🖼️ Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/screenshot1.PNG)
+
+### Screenshot 2
+![Screenshot 2](screenshots/screenshot2.PNG)
+
+### Screenshot 3
+![Screenshot 3](screenshots/screenshot3.PNG)
+
+
 ## 🌟 Features
 
 - **Stunning Property Listings**: Explore family homes, modern villas, country houses, and apartments with detailed specifications like size, location, and pricing.
