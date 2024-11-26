@@ -5,13 +5,13 @@ Nexter is a fictional, sleek and modern real estate platform designed to help us
 ## 🖼️ Screenshots
 
 ### Screenshot 1
-![Screenshot 1](screenshots/screenshot1.PNG)
+![Screenshot 1](screenshots/screenshot-1.PNG)
 
 ### Screenshot 2
-![Screenshot 2](screenshots/screenshot2.PNG)
+![Screenshot 2](screenshots/screenshot-2.PNG)
 
 ### Screenshot 3
-![Screenshot 3](screenshots/screenshot3.PNG)
+![Screenshot 3](screenshots/screenshot-3.PNG)
 
 
 ## 🌟 Features
