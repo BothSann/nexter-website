@@ -2,6 +2,12 @@
 
 Nexter is a fictional, sleek and modern real estate platform designed to help users find their dream homes. This project showcases a portfolio of luxurious properties and highlights key real estate services, making home acquisition effortless and enjoyable.
 
+## 🌐 Live Demo
+
+Check out the live version of the website at: [nexter](https://bothsann.github.io/nexter-website/)
+
+---
+
 ## 🖼️ Screenshots
 
 ### Screenshot 1
